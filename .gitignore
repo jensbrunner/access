@@ -1,0 +1,24 @@
+# Build outputs
+target/
+build/
+out/
+
+# Gradle
+.gradle/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.pem
+*.key
